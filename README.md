@@ -22,5 +22,5 @@ This project evaluates the causal impact of a Google PMAX campaign on retail ord
 - Pre/post analysis and null distribution validation
 
 ## 📄 Files
-- `scripts/causal_impact_analysis.R`: Full analysis code
+- `DACI Project 2 - final code.R`: Full analysis code
 - `presentation/`: Slide deck from final class presentation
