@@ -23,4 +23,4 @@ This project evaluates the causal impact of a Google PMAX campaign on retail ord
 
 ## 📄 Files
 - `DACI Project 2 - final code.R`: Full analysis code
-- `presentation/`: Slide deck from final class presentation
+- `DACI Presentation`: Slide deck from final class presentation
